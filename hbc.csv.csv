@@ -1,0 +1,17 @@
+﻿Row Labels,guest count,cancelled bookings,,Row Labels,total bookings
+couples,15998,6662,,City Hotel,13682
+family,1565,311,,Resort Hotel,8314
+single,4433,1169,,,
+,,,,Row Labels,cancelled bookings
+,,,,City Hotel,6004
+Row Labels,Count of room status,cancelled bookings,,Resort Hotel,2138
+desired,18160,8010,,,
+undesired,3836,132,,,
+,,,,,
+Row Labels,total guests,cancelled bookings,,,
+July,2776,1259,,,
+August,3889,1598,,,
+September,5114,2094,,,
+October,4957,1732,,,
+November,2340,486,,,
+December,2920,973,,,
